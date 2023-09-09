@@ -67,12 +67,31 @@ Boiler plate of HTML
 
 Hosting website - using git hub
 
-
+Internet works, Basic Tags, Paths to navigate between pages, Boiler plate of HTML. 
 
 
 
 6th Sept 2023
 
+05 - Introduction to CSS
+06 - CSS Properties
+07 - Intermediate CSS
+08 - Advanced CSS
+Completed on 9th Sept 2023. 
+
+
+Summary : What, why and how to use CSS, Thinking When working with CSS(Mobile Designs), Selectors, cascade specificity rules, properties, inspecting styles, Box Model, Positions, display property, float, responsive websites, Create project of indian flag. Create Simple Landing Page. 
+
+
+
+
+9th Sept 2023
+
+09 - Flexbox
+10 - Grid
+11 - Bootstrap
+12 - Web Design School - Create a Website that People Love
+13 - Capstone Project 2 - Personal Site
 
 
 
