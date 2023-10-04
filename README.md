@@ -95,3 +95,50 @@ Summary : What, why and how to use CSS, Thinking When working with CSS(Mobile De
 
 
 
+Flexbox -
+Cheat sheet https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+For Practice https://flexboxfroggy.com/
+
+Practice Grids - Grid Garden site
+
+Project Ideas = Chess Board, Painting with Grid, Price Card with Flexbox
+
+
+
+
+4th Oct 2023 
+11.30am 
+
+
+11 - Bootstrap
+
+Using different components and layout with 12 columns under different screen sizes.
+
+
+11.30pm 
+12 - Web Design School - Create a Website that People Love
+
+Daily UI - for ui designing challenges
+Canva.com
+
+13 - Capstone Project 2 - Personal Site
+
+
+
+
+
+
+
+14 - Introduction to Javascript ES6
+15 - Intermediate Javascript
+16 - The Document Object Model (DOM)
+17 - Boss Level Challenge 1 - The Dicee Game
+18 - Advanced Javascript and DOM Manipulation
+19 - jQuery
+20 - Boss Level Challenge 2 - The Simon Game
+
+
+
+
+
+
