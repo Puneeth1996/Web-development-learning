@@ -127,15 +127,105 @@ Canva.com
 
 
 
-
+23rd Oct 2023 
+8.30pm to 9.30pm   
 
 14 - Introduction to Javascript ES6
 15 - Intermediate Javascript
 16 - The Document Object Model (DOM)
+
+
+
+
+24th Oct 2023 
+9.30am to 10.30am
+
+
 17 - Boss Level Challenge 1 - The Dicee Game
 18 - Advanced Javascript and DOM Manipulation
+
+12.30pm to 1.30pm
 19 - jQuery
 20 - Boss Level Challenge 2 - The Simon Game
+21 - The Unix Command Line
+
+
+
+25th Oct 2023 
+8.0am to 9.30am   
+22 - Backend Web Development
+23 - Node.js
+24 - Express.js with Node.js
+
+
+1.0pm to 2.0pm
+25 - APIs - Application Programming Interfaces
+
+
+
+October 26, 2023
+8.0am to 9.0am 
+26 - Git, Github and Version Control
+27 - EJS
+
+
+
+October 26, 2023
+1.30pm to 2.30pm
+28 - Boss Level Challenge 3 - Blog Website
+
+October 27, 2023
+9.0am to 10.0am
+29 - Databases
+30 - SQL
+31 - MongoDB
+32 - Mongoose
+
+
+
+
+October 30, 2023
+12.0pm to 1.0pm
+
+33 - Putting Everything Together
+34 - Deploying Your Web Application
+35 - Boss Level Challenge 4 - Blog Website Upgrade
+36 - Build Your Own RESTful API From Scratch
+
+
+
+
+
+
+
+
+
+
+
+37 - Authentication & Security
+38 - React.js
+39 - Web3 Decentralised App (DApp) Development with the Internet Computer
+40 - Build Your First Defi (Decentralised Finance) DApp - DBANK
+41 - Deploying to the ICP Live Blockchain
+42 - Building DApps on ICP with a React Frontend
+43 - Create Your Own Crypto Token
+44 - Minting NFTs and Building an NFT Marketplace like OpenSea
+45 - Optional Module Ask Angela Anything
+46 - Next Steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
